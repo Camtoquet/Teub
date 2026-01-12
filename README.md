@@ -14,3 +14,6 @@ Gland + Pisse:
 Octobre: {26,27,28,29,30}
 Novembre : {2,6,9,11,13,17,18,19,25}
 Décembre : {2,3,9,10,17,18,25,26} 
+
+Result:
+![alt text](image.png)
