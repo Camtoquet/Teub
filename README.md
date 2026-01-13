@@ -1,5 +1,5 @@
 # Teub
-8=========D--- 2026 edition
+Projet dessin avec les activités commit 2026 edition
 
 
 Calendrier:
