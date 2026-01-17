@@ -21,3 +21,6 @@ Décembre : {2,3,9,10,17,18,25,26}
 
 ## Result:
 ![alt text](base.png)
+
+Actually there is a new result based on a mistake that I've made: i've created an open door on the right ballfor letting peoples visiting it: 
+![alt text](1ere_erreure.png)
