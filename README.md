@@ -20,7 +20,7 @@ Novembre : {2,6,9,11,13,17,18,19,25}
 Décembre : {2,3,9,10,17,18,25,26} 
 
 ## Result:
-![alt text](image.png)
+![alt text](base.png)
 
 Actually there is a new result based on a mistake that I've made: i've created an open door on the right ball for letting peoples visiting it: 
-![alt text](image-1.png)
+![alt text](1ere_erreur.png)
