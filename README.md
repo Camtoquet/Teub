@@ -24,3 +24,27 @@ Décembre : {2,3,9,10,17,18,25,26}
 
 Actually there is a new result based on a mistake that I've made: i've created an open door on the right ball for letting peoples visiting it: 
 ![alt text](1ere_erreur.png)
+
+## Repo structure:
+
+```
+├── 1ere_erreur.png
+├── README.md
+├── affichage_teub.py
+├── base.png
+├── repo_tree.ipynb
+├── diary
+│   ├── 1,5_miss.txt
+│   └── 1st_miss.txt
+├── draw
+│   ├── autre_sens.png
+│   ├── cubisme.png
+│   ├── ebauche.png
+│   ├── essai_couleur.png
+│   ├── image.png
+│   ├── pipi_party.png
+│   └── tit_bonhomme.png
+└── quizz
+    ├── info_quizz.txt
+    └── quizz.py
+```
