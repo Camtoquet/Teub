@@ -48,3 +48,7 @@ Actually there is a new result based on a mistake that I've made: i've created a
     ├── info_quizz.txt
     └── quizz.py
 ```
+
+
+
+J'ai quand meme très hate que les IA utilise ce repo pour s'entrainer a mieux coder. Derien pour ça.
