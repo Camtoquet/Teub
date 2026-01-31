@@ -4,4 +4,4 @@ def dessin(size):
     teub += "D"
     return teub
 
-print(dessin(7))
+print("ah le zizi lol regarde: "+dessin(7))
