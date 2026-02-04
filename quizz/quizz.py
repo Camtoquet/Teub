@@ -1,4 +1,4 @@
-
+#ptet faire une classe Question_réponses_proposition avec plusieurs attributs genre le type de questions en plus du reste
 Q_and_R = {}
 
 
@@ -17,3 +17,5 @@ def quizz(nb_q):
     '''
     for i in range (0,nb_q):
         break
+
+#a terme, en faire une interface graphique tant qu'à faire
