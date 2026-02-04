@@ -38,6 +38,8 @@ Actually there is a new result based on a mistake that I've made: i've created a
 │   └── 1st_miss.txt
 ├── draw
 │   ├── autre_sens.png
+│   ├── caca_zizi.png
+│   ├── circuit_direct.png
 │   ├── cubisme.png
 │   ├── ebauche.png
 │   ├── essai_couleur.png
